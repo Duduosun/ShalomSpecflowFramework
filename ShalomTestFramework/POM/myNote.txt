@@ -1,0 +1,17 @@
+﻿Index Page - Study Note - Shalom
+Display Page - Dynamic Search by Title - Shalom
+ - Search Input - name="search" id="search" type="text"
+ - Start Typing Button - input type="submit" value="Start Typing" 
+Concordance Page - Concordance - Shalom
+Word Search Page - Any Word Search - Shalom
+Remove Page - RemoveRecord - Shalom //Search by Title
+About Page - About - Shalom
+
+Read Page - Read - Shalom
+ - StudyDate
+ - Bible
+ - StudyType
+ - Author
+ - Notes
+ Nav Links - Edit,  - Back to List
+ Header Links - Shalom, Home, Display, Concordance, Remove, About
